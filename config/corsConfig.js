@@ -1,5 +1,5 @@
 // corsConfig.js
-const whitelist = ["https://thelila.es", "http://localhost:5173"];
+const whitelist = ["https://thelila.es", "http://localhost:5173/"];
 
 const corsOptions = {
   origin: function (origin, callback) {
