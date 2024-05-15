@@ -1,5 +1,5 @@
 // corsConfig.js
-const whitelist = [""];
+const whitelist = ["https://thelila.es/"];
 
 const corsOptions = {
   origin: function (origin, callback) {
